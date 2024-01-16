@@ -1,5 +1,5 @@
 # Dinosaur Image Classifier
-<img src="DinoClassifier/background.png" width="800" height="600">
+<img src="portfolio.jpg" width="800" height="600">
 
 ## These are the codes behind my Hugging Face Space - Gradio APP that lets you upload a photo (of a dinosaur) and it will classify which species the dinosaur is.
 ## See it here: https://huggingface.co/spaces/mxlars/DinoClassifier
