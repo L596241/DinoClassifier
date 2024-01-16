@@ -1,6 +1,6 @@
 # DinoClassifier
 
-## This is the codes behind my Hugging Face Space - Gradio APP that lets you upload a photo (of a dinosaur) and it will classify which species the dinosaur is.
+## These are the codes behind my Hugging Face Space - Gradio APP that lets you upload a photo (of a dinosaur) and it will classify which species the dinosaur is.
 ## See it here: https://huggingface.co/spaces/mxlars/DinoClassifier
 
 ### In order for this to code to work, you must run my Jupyter Notebook in Kaggle and download the model, and then add the model "dinosaur_classifier.pkl" into the folder "DinoClassifier"
